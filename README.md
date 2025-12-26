@@ -3,7 +3,7 @@ Preparing for the AWS Certified SysOps Administrator – Associate (SOA-C03) exa
 
 ## 1. Understanding the Exam Blueprint
 
-I started by reviewing the official SOA-C03 exam guide to understand the exam domains and weightage. The exam mainly covers monitoring and reporting, reliability and business continuity, deployment and provisioning, security and compliance, and troubleshooting. Knowing what to expect helped me plan my study strategy effectively.
+I started by reviewing the **official SOA-C03 exam guide** to understand the exam domains and weightage. The exam mainly covers monitoring and reporting, reliability and business continuity, deployment and provisioning, security and compliance, and troubleshooting. Knowing what to expect helped me plan my study strategy effectively.
 
 ## 2. Building a Strong Foundation
 
