@@ -29,6 +29,6 @@ After every practice test, I carefully reviewed incorrect answers. I revisited w
 
 In the last few days, I focused on revision instead of learning new topics. I summarized key points, reviewed common AWS error scenarios, and practiced identifying the best solutions for given problems.
 
-Final Thoughts
+### Final Thoughts
 
 The SOA-C03 exam requires both theoretical knowledge and hands-on experience. Consistent practice, understanding real-world AWS scenarios, and regular mock tests were the key factors in my success. With a structured study plan and practical exposure, passing the SOA-C03 exam is absolutely achievable.
